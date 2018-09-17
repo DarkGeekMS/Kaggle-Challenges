@@ -1,2 +1,5 @@
-# Kaggle-Challenges-
-This Repo contains my python notebooks for Kaggle Challenges that I worked on
+# Kaggle Challenges
+
+This Repo contains my python notebooks for Kaggle Challenges that I worked on.
+
+
