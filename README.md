@@ -20,4 +20,3 @@ At the top of each notebook, a link to the competition is found.
 My Kaggle ID: Mohamed Shawky DG
 
 Thanks :)
-
